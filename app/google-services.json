@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "145520275845",
+    "project_id": "breaking-the-basics",
+    "storage_bucket": "breaking-the-basics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145520275845:android:590ebf82be43dddeb754ec",
+        "android_client_info": {
+          "package_name": "com.breakingthebasics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145520275845-07m9dh8m4i4jiubduu2mh76417kcu0gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1FA7TOFbUeXoOok3TbblGcHfHGJEog28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145520275845-07m9dh8m4i4jiubduu2mh76417kcu0gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145520275845:android:4a4f7171be12f22ab754ec",
+        "android_client_info": {
+          "package_name": "com.spartons.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145520275845-07m9dh8m4i4jiubduu2mh76417kcu0gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1FA7TOFbUeXoOok3TbblGcHfHGJEog28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145520275845-07m9dh8m4i4jiubduu2mh76417kcu0gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
